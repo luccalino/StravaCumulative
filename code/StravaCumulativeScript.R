@@ -342,6 +342,7 @@ ggsave(plot = g,
        height = 350, 
        units = "mm", 
        dpi = 300, 
+       bg = "white",
        filename = "output/CumulativeStatistics.png")
 
 
