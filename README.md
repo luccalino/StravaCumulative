@@ -3,4 +3,5 @@ This repo contains code to plot cumulative yearly elevation and distance plots f
 
 # Output
 The visualisation can look like this:
+
 ![StravaCumulative](/output/CumulativeStatistics.png)
